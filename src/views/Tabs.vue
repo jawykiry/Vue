@@ -1,0 +1,112 @@
+<template>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+    <p>Tabs 的文档</p>
+</template>
+
+<script lang="ts">
+    export default {
+        name: "Tabs"
+    }
+</script>
+
+<style scoped lang="scss">
+
+</style>

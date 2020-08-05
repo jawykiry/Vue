@@ -1,0 +1,112 @@
+<template>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+    <p>Dialog 的文档</p>
+</template>
+
+<script lang="ts">
+    export default {
+        name: "Dialog"
+    }
+</script>
+
+<style scoped lang="scss">
+
+</style>
