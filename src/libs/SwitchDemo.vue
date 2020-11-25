@@ -7,7 +7,7 @@
     import Button from "../views/Button.vue";
     import {ref} from "vue";
     export default {
-        name : 'SwtichDemo',
+        name : 'SwitchDemo',
         components: {Button},
         props: {
             value : Boolean
@@ -23,7 +23,7 @@
     }
 </script>
 
-<style scoped lang="scss">
+<style lang="scss">
     $h: 22px;
     $h2: $h - 4px;
     button {
