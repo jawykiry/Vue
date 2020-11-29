@@ -1,10 +1,12 @@
 <template>
-    <p>Demo 默认目录</p>
+    <slot/>
 </template>
 
 <script lang="ts">
     export default {
-        name: "Switch"
+        name: "Tab",
+        setup() {
+        }
     }
 </script>
 
