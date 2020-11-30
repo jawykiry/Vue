@@ -11,4 +11,8 @@
 ```
 yarn add vue-router@4.0.0-beta.3
 ```
- 
+
+### 使用项目
+```
+yarn dev
+```
