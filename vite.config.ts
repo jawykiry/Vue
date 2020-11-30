@@ -1,9 +1,13 @@
 // @ts-nocheck
-
+//用上方的注释取消了ts的报错来运行js
 import { md } from "./plugins/md";
 import fs from 'fs'
 import {baseParse} from '@vue/compiler-core'
 export default {
+    //添加github仓库名称
+    base:'./',
+    //将_asset改成asset
+    assetsDir:'asset',
     plugins: [md()],
     vueCustomBlockTransforms: {
         demo: (options) => {

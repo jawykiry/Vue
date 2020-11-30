@@ -2,10 +2,10 @@
     <div class="topnavAndBanner">
         <Topnav/>
         <div class="banner">
-            <h1>轱辘UI</h1>
-            <h2>一个厉害的 UI 框架</h2>
+            <h1>读享者</h1>
+            <h2>独享阅读的快乐</h2>
             <p class="actions">
-                <a href="https://github.com">GitHub</a>
+                <a href="https://github.com/jawykiry/Vue">GitHub</a>
                 <router-link to="/doc">开始</router-link>
             </p>
         </div>
@@ -54,18 +54,27 @@
     }
     .features {
             margin: 64px auto;
-            width: 400px;
+            padding: 0 16px;
             @media (min-width: 800px) {
                 width: 800px;
+                >ul {
+                    >li {
+                        width: 50%;
+                    }
+                }
             }
             @media (min-width: 1200px) {
                 width: 1200px;
+                >ul {
+                    >li {
+                        width: 33.3333%;
+                    }
+                }
             }
             >ul {
                 display: flex;
                 flex-wrap: wrap;
                 >li {
-                    width: 400px;
                     margin: 16px 0;
                     display: grid;
                     justify-content: start;

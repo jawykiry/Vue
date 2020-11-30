@@ -5,7 +5,7 @@
             <component :is="component" />
         </div>
         <div class="demo-actions">
-            <Button  @click="codeVisable = !codeVisable">查看代码</Button>
+            <Button  @click="click" v-text="content"></Button>
         </div>
         <div class="demo-code">
             <pre class="language-html" v-html="html" v-if="codeVisable"/>
@@ -31,12 +31,21 @@
             const html = computed(() =>{
                 return Prism.highlight(props.component.__sourceCode, Prism.languages.html, 'html')
             })
+            const content_set = ref(["显示代码", "隐藏代码"])
+            const content = ref("显示代码")
+            const click = ()=>{
+                codeVisable.value = !codeVisable.value
+                if(codeVisable.value) content.value = content_set.value[1]
+                else content.value = content_set.value[0]
+            }
             //千万别用show这类动词来形容一个属性
             const codeVisable = ref(false)
             return {
                 Prism,
                 html,
-                codeVisable
+                codeVisable,
+                content,
+                click
             }
         }
     }

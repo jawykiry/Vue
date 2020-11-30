@@ -2,7 +2,7 @@
     <!--    新的组件teleport使用这个组件可以无视优先级而直接变成指定的下面这里时body-->
     <teleport to="body">
         <div class="topnav">
-            <router-link class="logo" to="/">
+            <router-link class="logo" to="/" >
                 <svg class="icon">
                     <use xlink:href="#icon-ye"></use>
                 </svg>
@@ -42,8 +42,8 @@
     .topnav {
         color: $color;
         display: flex;
+        position: absolute;
         padding: 16px;
-        position: fixed;
         top: 0;
         left: 0;
         width: 100%;
@@ -73,9 +73,9 @@
         > .toggleAside {
             width: 24px;
             height: 24px;
-            position: absolute;
+            position: fixed;
             left: 16px;
-            top: 50%;
+            top: 40px;
             transform: translateY(-50%);
             display: none;
         }
