@@ -16,3 +16,13 @@ yarn add vue-router@4.0.0-beta.3
 ```
 yarn dev
 ```
+
+## 项目部署
+项目部署需要在终端中输入以下代码
+```
+yarn build
+
+npm i -g http-server
+
+hs dist -c -1
+```
