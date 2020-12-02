@@ -3,7 +3,7 @@
         <span></span>
     </button>
 </template>
-<script lang="ts">
+<script lang="ts" >
     import { ref } from "vue";
     export default {
         props: {
@@ -18,7 +18,7 @@
     };
 </script>
 
-<style lang="scss">
+<style lang="scss" >
     $h: 22px;
     $h2: $h - 4px;
     .gulu-switch {

@@ -14,7 +14,7 @@
         </div>
     </div>
 </template>
-<script lang="ts">
+<script lang="ts" >
     import Tab from './Tab.vue'
     import {
         computed,

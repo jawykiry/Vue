@@ -3,29 +3,29 @@
 import esbuild from 'rollup-plugin-esbuild'
 import vue from 'rollup-plugin-vue'
 import scss from 'rollup-plugin-scss'
-import dartSass from 'sass';
+import dartSass from 'sass'
 import { terser } from "rollup-plugin-terser"
 
 export default {
-    input: 'src/lib/index.ts',
-    output: {
+    input: 'src/lib/index.js',
+    output: [{
         globals: {
             vue: 'Vue'
         },
-        name: 'Gulu',
-        file: 'dist/lib/gulu.js',
+        name: 'Jawy',
+        file: 'dist/lib/jawy.js',
         format: 'umd',
         plugins: [terser()]
-    },
+    }],
     plugins: [
         scss({ include: /\.scss$/, sass: dartSass }),
+        vue({
+            include: /\.vue$/,
+        }),
         esbuild({
             include: /\.[jt]s$/,
             minify: process.env.NODE_ENV === 'production',
             target: 'es2015'
-        }),
-        vue({
-            include: /\.vue$/,
         })
     ],
 }
