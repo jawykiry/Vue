@@ -11,9 +11,10 @@ npm install -g @vue/cli
 yarn global add -g @vue/cli
 ```
 
-### 安装vue-router
+### 安装
+安装完成后
 ```
-yarn add vue-router@4.0.0-beta.3
+vue create .
 ```
 
 ### 使用项目
