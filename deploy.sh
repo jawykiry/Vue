@@ -3,7 +3,7 @@ yarn build
 cd dist
 git init
 git add .
-git commit -m "2002.11.30"
+git commit -m "2002.12.2"
 git branch -M main
 git remote add origin git@github.com:jawykiry/vue-website.git
 git push -f -u origin main

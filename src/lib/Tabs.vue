@@ -52,7 +52,7 @@
                         //利用左边减去右边的方式来计算下划线的位置
                         const left = left2 - left1
                         indicator.value.style.left = left + 'px'
-                    })
+                    }, {flush: 'post'})
                 }
             );
             //在context中有上层传入的标签属性，在slots.default()中
