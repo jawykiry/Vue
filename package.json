@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@rollup/plugin-json": "^4.1.0",
-    "@vue/compiler-sfc": "^3.0.3",
+    "@vue/compiler-sfc": "^3.2.45",
     "esbuild": "^0.8.17",
     "rollup-plugin-esbuild": "^2.6.0",
     "rollup-plugin-scss": "^2.6.1",
